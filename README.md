@@ -12,7 +12,9 @@ If you download this repository and run 'Experimenter.py' with Python (tested wi
 
 -----------------------------------
 
-For some structual understanding, please see README.png then, read the below.
+For some structual understanding, see below.
+
+<img src="https://github.com/cogbio/Experimenter/blob/master/README.png">
 
 1. Setting up 'config.py'
 
