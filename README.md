@@ -2,7 +2,9 @@ Experimenter
 ============
 For running perceptual and cognitive experiments.
 
-Experimenter was supported by ERC Advanced Grant SOMACCA # 230604. [SOMACCA Homepage](http://www.somacca.net)
+Experimenter was supported by ERC Advanced Grant SOMACCA # 230604. 
+
+![alt tag](http://www.somacca.net/somacca/img/jaune.jpg) ![alt tag](http://www.somacca.net/somacca/img/FP7-gen-RGB.jpg) [http://www.somacca.net](http://www.somacca.net)
 
 First, please see README.png then, read the below.
 
