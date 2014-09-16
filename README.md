@@ -8,7 +8,7 @@ Experimenter was supported by ERC Advanced Grant SOMACCA # 230604.
 
 -----------------------------------
 
-If you download all the files in this repository and run 'Experimenter.py' with Python (tested with Python 2.6 and 2.7 from python.org), it should run a sample pseudo experiment. '_sample_expmt'. This experiment has 2 sections and 3 trials (1 trial for the 1st section, 2 trials for the 2nd section). Each trial has 6 stimuli (1 WAV file + 5 PNG files). It's a pseudo experiment just for showing how to set up 'config.py', 'EventFile.py', and an experiment module.
+If you download all the files in this repository and run 'Experimenter.py' with Python (tested with Python 2.6 and 2.7 from python.org), it should run a sample pseudo experiment, '_sample_expmt'. This experiment has 2 sections and 3 trials (1 trial for the 1st section, 2 trials for the 2nd section). Each trial has 6 stimuli (1 WAV file + 5 PNG files). It's a pseudo experiment just for showing how to set up 'config.py', 'EventFile.py', and coding an experiment module.
 
 -----------------------------------
 
