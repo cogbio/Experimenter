@@ -4,7 +4,7 @@ For running perceptual and cognitive experiments.
 
 Experimenter was supported by ERC Advanced Grant SOMACCA # 230604. 
 
-![alt tag](http://www.somacca.net/somacca/img/jaune.jpg) ![alt tag](http://www.somacca.net/somacca/img/FP7-gen-RGB.jpg) [http://www.somacca.net](http://www.somacca.net)
+<img src="http://www.somacca.net/somacca/img/jaune.jpg" size=(100, 50)> <img src="http://www.somacca.net/somacca/img/FP7-gen-RGB.jpg" size=(100, 50)> [http://www.somacca.net](http://www.somacca.net)
 
 First, please see README.png then, read the below.
 
