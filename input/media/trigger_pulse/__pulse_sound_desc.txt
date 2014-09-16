@@ -1,0 +1,5 @@
+'pulse.wav' is 0.01 seconds of 1.0 and 0.01 seconds of -1.0, followed by 0.1 seconds of silence 
+'chirp.wav' is 0.01 seconds of 1000 Hz sine wave, followed by 0.1 seconds of silence 
+'pulse_stereo' is the same as # 1, but in stereo (the other channel is silence)
+
+- 2012.10.07 Tecumseh Fitch
