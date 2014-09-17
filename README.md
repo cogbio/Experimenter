@@ -1,6 +1,7 @@
 Experimenter
 ============
-For running perceptual and cognitive experiments.
+
+Experimenter is an open-source Python-based framework for running diverse behavioral experiments, with both humans and animals.  It can show pictures and video, play sounds and operate devices (e.g. feeders), and get responses from keyboard, touchscreen, mouse, or button box (code unfortunately not included in the open-source version, because the control software is not open-source).  Quite complex experimental designs are possible, but we try to make simple stuff simple. This code is freely available under GPL.
 
 Developing 'Experimenter' was supported by ERC Advanced Grant SOMACCA # 230604. 
 
